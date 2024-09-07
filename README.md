@@ -19,4 +19,4 @@ To run any of the Java programs:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/java-programs.git
+   git clone https://github.com/Debajyoti-3/Java-repo.git
