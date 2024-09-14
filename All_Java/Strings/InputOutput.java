@@ -16,5 +16,6 @@ public class InputOutput {
                                          //sc.nextLine() is for input a SENTENCE
 
         System.out.println("The name is :"+ name);
+        
     }
 }

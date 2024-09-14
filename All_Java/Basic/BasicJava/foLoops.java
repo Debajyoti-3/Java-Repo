@@ -1,4 +1,4 @@
-package com.BasicJava;
+package Basic.BasicJava;
 
 public class foLoops {
     public static void main(String[]args){

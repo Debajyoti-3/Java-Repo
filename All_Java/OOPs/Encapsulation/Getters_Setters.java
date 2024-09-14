@@ -1,5 +1,9 @@
 package OOPs.Encapsulation;
 
+/* setter: method sets or updates the value of a private variable
+   getter: method retrieves the value of a private variable
+ */
+
  class Don{
 
         private int age= 23;       // private means it is only usable in same class
@@ -8,15 +12,16 @@ package OOPs.Encapsulation;
         public int getAge(){  // Getters
             return age;
         }
-        public void setAge(int age){  // Setters
-            this.age=age;
+        public void setAge(int newAge){  // Setters
+            this.age=newAge;
         }
         public String getName(){
             return name;
         }
-        public void setName(String name){
-            this.name = name;
+        public void setName(String newName){
+            this.name = newName;
         }
+
     }
 
     public class Getters_Setters{
