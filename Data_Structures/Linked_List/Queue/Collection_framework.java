@@ -12,7 +12,7 @@ public class Collection_framework {
         q.add(1);
         q.add(5);
         q.add(7);
-        q.size()
+        q.size();
 
         while(!q.isEmpty()){
             System.out.println(q.peek());
