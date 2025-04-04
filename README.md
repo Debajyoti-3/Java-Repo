@@ -11,7 +11,7 @@ The repository is organized into different folders, each containing related Java
 - **OOP/**: Object-Oriented Programming concepts like classes, inheritance, and polymorphism.
 - **DataStructures/**: Programs focusing on common data structures (Arrays, LinkedLists, Stacks, Queues).
 - **Algorithms/**: Sorting, searching algorithms, and more.
-- **Projects/**: Larger Java projects combining various concepts.
+- **Projects/**:  Java projects combining various concepts.
 
 ## How to Run
 
